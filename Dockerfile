@@ -1,1 +1,1 @@
-USER usr
+FROM alpine:latest
